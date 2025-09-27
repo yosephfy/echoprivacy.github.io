@@ -1,5 +1,3 @@
-# echoprivacy.github.io
-
 ## Privacy Policy for Echo App
 
 Echo App is a social media platform designed for sharing secrets, confessions, and thoughts with complete anonymity. We take your privacy seriously and are committed to protecting your identity and data. Below is our privacy policy outlining how we handle information on Echo App.
